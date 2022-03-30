@@ -4,6 +4,7 @@ description: This resource contains the concept of Sulfogenic aerosols, The carb
   cycle, and Past climate change.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-102-environmental-earth-science-fall-2005/cfa8acb8dfadc361d9eed0faa7977f61_extracredit_pset.pdf
 file_type: application/pdf
+parent_uid: 96589f3c-fb3c-11ac-16db-e8f654ba46ef
 resourcetype: Document
 title: extracredit_pset.pdf
 uid: cfa8acb8-dfad-c361-d9ee-d0faa7977f61
